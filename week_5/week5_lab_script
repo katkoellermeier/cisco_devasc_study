@@ -1,0 +1,11 @@
+# Meraki Dashboard API
+# curl -H "Authorization: Bearer <api_key>" https://api.meraki.com/api/v1/organizations
+
+# Webex Teams API
+# curl -H "Authorization: Bearer <token>" https://webexapis.com/v1/people/me
+
+# Cisco DNA Cener (DNAC) API
+# curl -X GET https://<dnac-ip>/dna/intent/api/v1/network-device \
+#     -H "X-Auth-Token: <your_token>"
+
+
