@@ -1,0 +1,1 @@
+<189>Apr 20 10:21:43 router1 %SYS-5-CONFIG_I: Configured from console by admin
