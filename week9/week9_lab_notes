@@ -1,0 +1,12 @@
+CI = Continuous Integration
+Every code push is automatically tested and merged (if it passes)
+
+CD = Continuous Deployment (or Delivery)
+New versions of the app or config are automatically deployed
+
+Benefits for Network Engineers:
+Auto-run linting, syntax checks, or config backups
+
+Auto-test Ansible playbooks, Python scripts, API health
+
+Auto-deploy configs to test labs, or notify via Webex
